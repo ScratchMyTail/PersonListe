@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="PersonListe:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="PersonListe.war">
+      <element id="artifact" artifact-name="PersonListe:war exploded" />
+    </root>
+  </artifact>
+</component>
